@@ -6,7 +6,7 @@ mongodb for database.
 ```bash                         
 ├── app.js
 ├── config
-│   ├── auth.js           # for authorisation to login
+│   ├── auth.js           # for authorization to login
 │   ├── keys.js           # mongodb connection url
 │   └── passport.js       # email and password auth
 ├── models
