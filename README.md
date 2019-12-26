@@ -3,6 +3,7 @@ Simple passport-authentication using Nodejs.
 mongodb for database.
 
 # Directory Layout
+```bash                         
 ├── app.js
 ├── config
 │   ├── auth.js           # for authorisation to login
@@ -23,7 +24,7 @@ mongodb for database.
     │   └── messages.ejs
     ├── register.ejs
     └── welcome.ejs
-   
+```
 * Run
     ```bash
     npm run start   # to run the app in node server
